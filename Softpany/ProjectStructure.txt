@@ -1,0 +1,6 @@
+﻿Softpany - Web Project/UI
+Softpany.Application - Interfaces, Services, Business Rules
+Softpany.Domain - Entities
+Softpany.Infrastructure.Data - DbContext, Migrations
+Softpany.IoC(Inversion of Control) - Dependency Injection, Register Services(AddScoped/AddTransient/AddSingleton)
+

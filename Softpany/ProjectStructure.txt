@@ -1,4 +1,4 @@
-﻿Project Structure
+﻿Project Structure..
 Softpany - Web Project/UI
 Softpany.Application - Interfaces, Services, Business Rules
 Softpany.Domain - Entities
